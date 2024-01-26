@@ -1,4 +1,4 @@
-<div style="background-color:#282828; color:#fff; padding:20px;">
+
 
 # Hello, I'm Janik aka howeswarder 
 
@@ -45,6 +45,3 @@ I'm a very cool guy from germany.
 ## 📫 Links
 - Github - [@Github](https://github.com/howeswarderbutcool)
 - Email - howeswarder@protonmail.com
-
-
-</div>
